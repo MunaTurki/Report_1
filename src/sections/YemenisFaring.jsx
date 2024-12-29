@@ -31,7 +31,7 @@ const YemenisFaring = () => {
       </p>
       </p>
 
-       This is a draft report powered by data written for application of data journalism position at DW by Muna Turki. To access the raw files, please follow the Link.
+       This is a draft report powered by data written for the application of data journalism position at DW by Muna Turki. To access the raw files, please follow the Link.
       </article>
       </div>
 
