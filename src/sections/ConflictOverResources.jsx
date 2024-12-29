@@ -23,7 +23,7 @@ const ConflictOverResources = () => {
        </p> 
         <p>
         The IRG was able to divert revenues from most imports to its territories,
-        although the de facto forces controlling different parts of the south and claiming self-control made it<a href="https://www.crisisgroup.org/middle-east-north-africa/gulf-and-arabian-peninsula/yemen/brokering-ceasefire-yemens-economic" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>unclear</a> how much of these revenues reached the public budget.
+        although the de facto forces controlling different parts of the south and claiming self-control made it <a href="https://www.crisisgroup.org/middle-east-north-africa/gulf-and-arabian-peninsula/yemen/brokering-ceasefire-yemens-economic" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>unclear</a> how much of these revenues reached the public budget.
         Meanwhile, experts believe that the Houthi police state has found other ways to generate revenue, 
         mainly by inflating prices and running black markets during shortages,
         in order to finance its regime and armed forces.
@@ -37,18 +37,18 @@ const ConflictOverResources = () => {
       <article id="text2" 
       className=" relative font-montserrat text-slate-gray leading-8 space-y-1">
         <p>
-        After a UN-broken truce in April of 2022, 
-        restrictions were lifted on Houthis controlled ports.
+        After a UN-sponsored truce in April of 2022, 
+        restrictions were lifted on Houthi controlled ports.
         Imports shifted largely to flow into the country from the west coast instead of the IRG-controlled southern ports. 
         </p>
         <p>
-        In October 2022, the Houthis will<a href="https://www.reuters.com/world/middle-east/yemeni-government-forces-intercept-houthi-drones-attacking-southern-oil-terminal-2022-10-21/" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>begin</a> attacking the oil terminals and ports used by the government for exports.
+        In October 2022, the Houthis will <a href="https://www.reuters.com/world/middle-east/yemeni-government-forces-intercept-houthi-drones-attacking-southern-oil-terminal-2022-10-21/" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>begin</a> attacking the oil terminals and ports used by the government for exports.
         By attacking government-controlled ports,
-        they will force more imports to flow through the Al Hudaydah port under their control. 
+        they will force more imports to flow through the AlHudaydah port under their control. 
         </p>
        <p>
        Oil exports never recovered to pre-war levels,
-       but they were the way the government collected revenue, mainly to continue issuing payroll and running services between 2018 and 2022.
+       but they were the way the government collected revenues needed to continue issuing payroll and running services between 2018 and 2022.
        The Houthis didn't manage to control oil or gas producing areas, but they were determined to prevent the government from exporting any of it,
        even to their territories.  
       </p>
