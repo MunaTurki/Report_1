@@ -24,7 +24,7 @@ const ConflictOverResources = () => {
         <p>
         The IRG was able to divert revenues from most imports to its territories,
         although the de facto forces controlling different parts of the south and claiming self-control made it <a href="https://www.crisisgroup.org/middle-east-north-africa/gulf-and-arabian-peninsula/yemen/brokering-ceasefire-yemens-economic" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>unclear</a> how much of these revenues reached the public budget.
-        Meanwhile, the government <a href="https://www.aa.com.tr/en/middle-east/yemen-government-accuses-houthis-of-causing-fuel-crisis/2525307">accuses</a> the Houthis of inflating prices and running black markets during fuel shortages, in order to compansate for losses in revenues and to finance its regime and armed forces. Data suggests that fuel has always been more expensive in Houthi territories regardless of importing restrictions.
+        Meanwhile, the government <a href="https://www.aa.com.tr/en/middle-east/yemen-government-accuses-houthis-of-causing-fuel-crisis/2525307"  className='text-gray-800 underline'>accuses</a> the Houthis of inflating prices and running black markets during fuel shortages, in order to compansate for losses in revenues and to finance its regime and armed forces. Data suggests that fuel has always been more expensive in Houthi territories regardless of importing restrictions.
         </p>
       </article>
     </div>
