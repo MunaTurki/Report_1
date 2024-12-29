@@ -44,7 +44,7 @@ const ConflictOverResources = () => {
         <p>
         In October 2022, the Houthis will <a href="https://www.reuters.com/world/middle-east/yemeni-government-forces-intercept-houthi-drones-attacking-southern-oil-terminal-2022-10-21/" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>begin</a> attacking the oil terminals and ports used by the government for exports.
         By attacking government-controlled ports,
-        they will force more imports to flow through the Al Hudaydah port under their control. 
+        they will be forcing more imports to flow through western coast ports under their control. 
         </p>
        <p>
        Oil exports never recovered to pre-war levels,
