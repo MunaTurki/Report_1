@@ -118,7 +118,7 @@ const LineChart = () => {
       y: {
         title: {
           display: true,
-          text: 'Price of USD in YR',
+          text: 'Average price of USD in YR',
         },
         ticks: {
           beginAtZero: false,
