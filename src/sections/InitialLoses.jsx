@@ -52,7 +52,7 @@ const InitialLoses = () => {
       </p>
       <p>
       Teachers, along with all Yemenis, will live through the interruption of the school year and payroll. 
-      Fuel shortages will make it difficult to maintain electricity in major cities, and food shortages will be felt for the first time.
+      Fuel shortages will make it difficult to maintain electric power supplies in major cities, and food shortages will be felt for the first time.
       Many school buildings will be lost to shelling and air stricks along the front line or will be used to house displaced people.
       </p>
       </article>
