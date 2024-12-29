@@ -59,7 +59,7 @@ const LineChart2 = () => {
     plugins: {
       title: {
         display: true,
-        text: 'Fuel Price Gap [Source: Dataset of Yemen Economic Tracking Initiative]',
+        text: 'Fuel Price Gap',
       },
       tooltip: {
         mode: 'index',
@@ -74,7 +74,7 @@ const LineChart2 = () => {
         type: 'category',
         title: {
           display: true,
-          text: '',
+          text: '                 Source: Dataset of Yemen Economic Tracking Initiative',
         },
       },
       y: {
