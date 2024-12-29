@@ -96,7 +96,7 @@ const LineChart = () => {
     plugins: {
       title: {
         display: true,
-        text: 'Exchange Rate',
+        text: 'Exchange Rates',
       },
       tooltip: {
         mode: 'index',
