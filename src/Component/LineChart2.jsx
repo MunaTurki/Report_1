@@ -59,7 +59,7 @@ const LineChart2 = () => {
     plugins: {
       title: {
         display: true,
-        text: 'Data Trend Over Time',
+        text: 'Fuel Price Gap [Source: Dataset of Yemen Economic Tracking Initiative]',
       },
       tooltip: {
         mode: 'index',
@@ -74,13 +74,13 @@ const LineChart2 = () => {
         type: 'category',
         title: {
           display: true,
-          text: 'Source: Dataset of Yemen Economic Tracking Initiative',
+          text: '',
         },
       },
       y: {
         title: {
           display: true,
-          text: 'Average Price of 1L of Gasoline in USD',
+          text: 'Price of 1 L of Gasoline in USD',
         },
         ticks: {
           beginAtZero: false,
