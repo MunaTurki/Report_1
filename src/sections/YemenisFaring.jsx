@@ -32,7 +32,7 @@ const YemenisFaring = () => {
       </article>
       </div>
 
-      <LineChart3 />
+     
      </div>
     </section>
  
