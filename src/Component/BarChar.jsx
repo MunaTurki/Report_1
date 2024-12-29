@@ -79,7 +79,7 @@ const BarChart = () => {
       x: {
         title: {
             display: true,
-            text: 'Source: Central Statistical Organization, 2010 ( as cited in DEMOGRAPHIC AND LABOUR MARKETTRENDS IN YEMEN, ILO)',
+            text: 'Source: Central Statistical Organization, 2010 ( as cited in Demographic and Labour Markettrends in Yemen, ILO)',
           }, // Enable stacking on the x-axis
       },
       y: {
