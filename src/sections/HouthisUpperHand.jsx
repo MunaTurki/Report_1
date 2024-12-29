@@ -18,8 +18,7 @@ const HouthisUpperHand = () => {
       </p>
       <p>
       Without oil or sufficient import taxes, the IRG is struggling to maintain sufficient revenues for the budget needed to run its territories. The anti-Houthi front is also fragmented, with multiple actors claiming sovereignty over different parts of the south. Poor performance and <a href="https://www.state.gov/reports/2024-fiscal-transparency-report/yemen/" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>failure to uphold anti-corruption measures</a> led to <a href="https://south24.net/news/news.php?nid=3109" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>delays</a> in promised grants,
-      and the IRG will often find itself unable to issue payroll or keep basic services running. 
-       <a href="https://www.alayyam.info/news/9ZY6DWQO-N85H3G-BA47" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'> Protests are taking over major cities in the south</a> , 
+      and the IRG will often find itself unable to issue payroll or keep basic services running. <a href="https://www.alayyam.info/news/9ZY6DWQO-N85H3G-BA47" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>Protests are taking over major cities in the south</a> , 
       with a widespread sense of uncertainty about the future.
   
       </p>
