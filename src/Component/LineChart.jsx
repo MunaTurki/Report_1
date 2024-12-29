@@ -96,7 +96,7 @@ const LineChart = () => {
     plugins: {
       title: {
         display: true,
-        text: '',
+        text: 'Exchange Rate',
       },
       tooltip: {
         mode: 'index',
@@ -111,8 +111,9 @@ const LineChart = () => {
         type: 'category',
         title: {
           display: true,
-          text: 'Source: Dataset of Yemen Economic Tracking Initiative',
+                   text: '                                                                                     Source: Dataset of Yemen Economic Tracking Initiative',
         },
+
       },
       y: {
         title: {
