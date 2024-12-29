@@ -8,7 +8,7 @@ const PreWar = () => {
    <div className="relative  flex  flex-col justify-center items-center w-full p-10" >
  
       <h1 className="text-xl font-palanquin font-bold">
-      <span id="text1" className=" text-lg xl:whitespace-nowrap relative">  Till 2014 - Pre-war Economy of Yemen  </span>
+      <span id="text1" className=" text-lg xl:whitespace-nowrap relative">  Pre-war Economy of Yemen  </span>
       </h1>
 
      <div className="relartive flex  w-full">
