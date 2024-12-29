@@ -19,7 +19,7 @@ const HouthisUpperHand = () => {
       <p>
       Without oil or sufficient import taxes, the IRG is struggling to maintain sufficient revenues for the budget needed to run its territories. The anti-Houthi front is also fragmented, with multiple actors claiming sovereignty over different parts of the south. Poor performance and <a href="https://www.state.gov/reports/2024-fiscal-transparency-report/yemen/" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>failure to uphold anti-corruption measures</a> led to <a href="https://south24.net/news/news.php?nid=3109" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>delays</a> in promised grants,
       and the IRG will often find itself unable to issue payroll or keep basic services running. 
-       <a href="https://www.alayyam.info/news/9ZY6DWQO-N85H3G-BA47" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>Protests are taking over major cities in the south</a> , 
+       <a href="https://www.alayyam.info/news/9ZY6DWQO-N85H3G-BA47" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'> Protests are taking over major cities in the south</a> , 
       with a widespread sense of uncertainty about the future.
   
       </p>
@@ -32,7 +32,7 @@ const HouthisUpperHand = () => {
       <p>
       These recent developments seem to have little impact on the Houthis who are continuing their attacks.
       After all, the Houthis are coming out of ten years of bombardment and blockade not losing and capable of pushing their own terms. 
-      Just last summer, the IRG<a href="https://sanaacenter.org/publications/analysis/23062" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>backed down </a> from revoking the licenses of six banks still headquartered in Sana’a. 
+      Just last summer, the IRG <a href="https://sanaacenter.org/publications/analysis/23062" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>backed down </a> from revoking the licenses of six banks still headquartered in Sana’a. 
       The backdown was pressured by Saudi Arabia, which gave in to threats of fresh Houthi attacks both on Yemeni and Saudi targets.
       </p>
       </article>
