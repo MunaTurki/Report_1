@@ -27,7 +27,7 @@ const InitialLoses = () => {
       By the end of 2015, the country was fragmenting into zones of varying territorial control. Frontline fighting,
       which quickly shifted from Aden in the south to central Yemen,
       severely damaged infrastructure. Oil and gas exports grounded to a halt. 
-      Imports, including critical supplies of food, fuel, and medicine, were reduced and delayed by Saudi restrictions. By the turn of 2016, 
+      Imports, including critical supplies of food, fuel, and medicine, were reduced and delayed by the coalition restrictions. By the turn of 2016, 
       the front lines roughly separated the north from the south and have largely persisted to this day.
       
       </p>
