@@ -80,7 +80,7 @@ const LineChart2 = () => {
       y: {
         title: {
           display: true,
-          text: 'Price of 1 L of Gasoline in USD',
+          text: 'Average price of 1 L of Gasoline in USD',
         },
         ticks: {
           beginAtZero: false,
