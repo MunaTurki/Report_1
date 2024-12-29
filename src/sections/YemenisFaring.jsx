@@ -25,7 +25,7 @@ const YemenisFaring = () => {
        <LineChart3 />
       <p>
       <a href="https://www.crisisgroup.org/middle-east-north-africa/gulf-and-arabian-peninsula/yemen/brokering-ceasefire-yemens-economic" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>The International Crisis Group concludes </a>
-       “The combined hunger-humanitarian crisis does not result from a lack of basic goods […]. 
+      : “The combined hunger-humanitarian crisis does not result from a lack of basic goods […]. 
       Rising prices have been the primary problem since 2018”. This situation has been largely driven by actions taken by the Houthis and the IRG to undermine rivals, but to undermine the very ability of Yemenis to survive. 
       </p>
       <p>
