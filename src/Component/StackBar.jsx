@@ -89,7 +89,7 @@ const StackedBarChart = () => {
         stacked: true, 
         title: {
             display: true,
-            text: 'Percentage',
+            text: 'Approximated percentage',
           },// Enable stacking on the y-axis
       },
     },
