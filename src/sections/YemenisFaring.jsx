@@ -29,7 +29,7 @@ const YemenisFaring = () => {
       Rising prices have been the primary problem since 2018”. This situation has been largely driven by actions taken by the Houthis and the IRG to undermine rivals, but to undermine the very ability of Yemenis to survive. 
       </p>
       <p>
-      <i>This draft report has been created by Muna Turki as a sample to apply for DW data journalism position.</i>
+      <i>This draft report has been created by Muna Turki as a sample to apply for DW data journalism position. Please visit the following Github repository for all relevant files for creating this material:  <a href="https://github.com/MunaTurki/Report_1" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>https://github.com/MunaTurki/Report_1</a></i>
       </p>
 
       </article>
