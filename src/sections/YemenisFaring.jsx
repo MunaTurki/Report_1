@@ -28,7 +28,9 @@ const YemenisFaring = () => {
        “The combined hunger-humanitarian crisis does not result from a lack of basic goods […]. 
       Rising prices have been the primary problem since 2018”. This situation has been largely driven by actions taken by the Houthis and the IRG to undermine rivals, but to undermine the very ability of Yemenis to survive. 
       </p>
-      
+      <p>
+      This draft report has been created by Muna Turki as a sample to apply for DW data journalism position.
+      </p>
 
       </article>
       </div>
