@@ -58,7 +58,7 @@ const LineChart3 = () => {
     plugins: {
       title: {
         display: true,
-        text: 'Data Trend Over Time',
+        text: 'Food Supplies for a budget of 20,000 YR',
       },
       tooltip: {
         mode: 'index',
@@ -73,13 +73,13 @@ const LineChart3 = () => {
         type: 'category',
         title: {
           display: true,
-          text: '',
+           text: '                                                                                     Source: Dataset of Yemen Economic Tracking Initiative',
         },
       },
       y: {
         title: {
           display: true,
-          text: 'Number Of Baskets',
+          text: 'Average Number Of Baskets',
         },
         ticks: {
           beginAtZero: false,
