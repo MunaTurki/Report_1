@@ -31,7 +31,7 @@ const HouthisUpperHand = () => {
       <p>
       These recent developments seem to have little impact on the Houthis who are continuing their attacks.
       After all, the Houthis are coming out of ten years of bombardment and blockade not losing and capable of pushing their own terms. 
-      Just last summer, the IRG <a href="https://sanaacenter.org/publications/analysis/23062" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>backed down </a> from revoking the licenses of six banks still headquartered in Sana’a. 
+      Just last summer, the IRG <a href="https://sanaacenter.org/publications/analysis/23062" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>backed down</a> from revoking the licenses of six banks still headquartered in Sana’a. 
       The backdown was pressured by Saudi Arabia, which gave in to threats of fresh Houthi attacks both on Yemeni and Saudi targets.
       </p>
       </article>
