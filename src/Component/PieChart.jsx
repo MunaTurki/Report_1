@@ -9,7 +9,7 @@ const PieChart = () => {
   const data = {
     labels: ['Oil revenues', 'Tax revenues', 'Other','Grants'],
     datasets: [{
-      label: ['Oil revenues', 'Tax revenues', 'Other','Grants'],
+      label: 'Percentage',
       data: [45.3,25.6, 18.3,10.8],
       backgroundColor: [
         'rgba(255, 99, 132, 0.4)',
