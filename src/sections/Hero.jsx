@@ -20,7 +20,7 @@ const Hero = () => {
       </p>
       <p>
       The UN, experts and available data suggest that the lesser-known economic conflict has taken
-       the heaviest toll on Yemenis, contributing through mal-nutrition and preventable diseases to more <a href="https://www.undp.org/yemen/publications/assessing-impact-war-yemen-pathways-recovery" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>deaths</a> than the armed conflict. In this story, we follow the timeline of the multilateral economic conflict. Is it the defining conflict front? and how are Yemenis paying dearly for it?
+       the heaviest toll on Yemenis, contributing through mal-nutrition and preventable diseases to more <a href="https://www.undp.org/yemen/publications/assessing-impact-war-yemen-pathways-recovery" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>deaths</a> than the armed conflict. In this story, we follow the timeline of the multilateral economic conflict. Is it the conflict decisive front? And how are Yemenis paying dearly for it?
       </p>
       </article>
      </div>
