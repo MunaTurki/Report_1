@@ -33,7 +33,7 @@ const PreWar = () => {
       Transitional development plans were promised under the regime of Ali Abdullah Saleh. Saleh,
       who ruled unified Yemen since 1990, is <a href="https://digitallibrary.un.org/record/788246?v=pdf" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>accused</a> of corruption and deepening divisions. 
       The two and a half decades leading up to 2015 were anything but stable, with a major civil war in 1994 between the newly unified north and south,
-      six wars with the Houthis in the north (2004-2010), and a national war against al-Qaeda in the south that intensified (2009-2011).
+      six wars with the Houthis in the north (2004-2010), and a national war against al-Qaeda in the south that intensified between 2009 and 2011.
       </p>
       <p>
       In 2011, Saleh was forced to step down as a result of the Arab Spring protests.
