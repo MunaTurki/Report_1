@@ -19,7 +19,7 @@ const ConflictOverResources = () => {
         Beginning in 2021, the Houthis pushed attacks on gas-rich Marib in an attempt to gain fuel resources and revenues, 
         but failed to seize the Wadi district where the oil facilities are located. In response to the multiple offenses, the IRG, 
         through the coalition, will <a href="https://www.crisisgroup.org/middle-east-north-africa/gulf-and-arabian-peninsula/yemen/brokering-ceasefire-yemens-economic" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>stop</a> approving fuel shipments to Houthi areas several times, forcing the Houthis to import through IRG-controlled ports. 
-        The tightened blockade led to high prices and shortages in the Houthi-controlled areas and drew heavy <a href="C:\Users\USER\Downloads\Torture-in-slow-motion (1).pdf" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>criticism</a> on the IRG and the coalition. 
+        The tightened blockade led to high prices and shortages in the Houthi-controlled areas and drew further <a href="C:\Users\USER\Downloads\Torture-in-slow-motion (1).pdf" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>criticism</a> on the IRG and the coalition. 
        </p> 
         <p>
         The IRG was able to divert revenues from most imports to its territories,
