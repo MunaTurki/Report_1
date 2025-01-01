@@ -40,9 +40,7 @@ const MassiveInflation = () => {
       <article id="text2" 
       className=" relative font-montserrat text-slate-gray leading-8 space-y-1 ">
       <p>
-      Civil servants whose incomes remain fixed 
-      at pre-war rates - including teachers - under IRG control
-      will feel the exponential decline in their purchasing power in real time.
+      Civil servants whose incomes remain fixed at pre-war rates under IRG control - including teachers - will feel the exponential decline in their purchasing power in real time.
   
       </p>
       </article>
