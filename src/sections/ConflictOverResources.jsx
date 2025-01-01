@@ -45,8 +45,7 @@ const ConflictOverResources = () => {
         they will be forcing more imports to flow through western coast ports under their control. 
         </p>
        <p>
-       Oil exports never recovered to pre-war levels,
-       but they were the way the government collected revenues needed to continue issuing payroll and running services between 2018 and 2022.
+       Oil exports never recovered to pre-war levels, but they were the means by which the government collected the revenue it needed to continue issuing payrolls and running services between 2018 and 2022.
        The Houthis didn't manage to control oil or gas producing areas, but they were determined to prevent the government from exporting any of it,
        even to their territories.  
       </p>
