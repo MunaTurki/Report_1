@@ -16,8 +16,8 @@ const PreWar = () => {
       className=" relative font-montserrat text-slate-gray leading-8 ">
       <p>
       The Yemeni economy is usually described as a hydrocarbon under-developed economy with a huge public sector. 
-      Up till 2014, oil revenues were contributing to almost half of the government budget. 
-      A stunning figure of 80% of exports are centered around oil while <a href="https://reliefweb.int/report/yemen/food-affordability-conflict-torn-yemen-light-ukraine-war-2023?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>90% of food demand</a> is imported.  
+      Until 2014, oil revenues contributed to almost half of the government budget. 
+      A stunning figure of 80% of exports were centered around oil while <a href="https://reliefweb.int/report/yemen/food-affordability-conflict-torn-yemen-light-ukraine-war-2023?utm_source=chatgpt.com" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>90% of food demand</a> is imported.  
       </p>
       </article>
      </div>
