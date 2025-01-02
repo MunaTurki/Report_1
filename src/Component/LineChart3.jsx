@@ -73,7 +73,7 @@ const LineChart3 = () => {
         type: 'category',
         title: {
           display: true,
-           text: 'To track how the livelihood of Yemenis has changed through the last decade, we use a unit of a basic food basket. A household of 4 will need 10 baskets per month to satisfy minimum caloric intake. An average teacher was able to afford 10 baskets with one-third of their income in 2014 (estimated at 60,000 Riyals). Today, they can only afford one under IRG control and four under Houthi control, assuming that they received their wages regularly to start with.Source: Dataset of Yemen Economic Tracking Initiative',
+           text: '                                                                                                        Source: Dataset of Yemen Economic Tracking Initiative',
         },
       },
       y: {
