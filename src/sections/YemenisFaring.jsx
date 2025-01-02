@@ -16,16 +16,16 @@ const YemenisFaring = () => {
       className=" relative font-montserrat text-slate-gray leading-8 space-y-1">
     
       <p>
-      In a country split economically and fragemented potically, with a growing number of conflicts. 
-      The yemenis seem to be on a track of losing more of their means to secure a livelihood, 
-        dragged into more conflicts and far from finding an end to long-pending ones.
-      The purchase power in the IRG territories is steadily falling, 
-      while the Houthis are <a href="https://www.crisisgroup.org/middle-east-north-africa/gulf-and-arabian-peninsula/yemen/brokering-ceasefire-yemens-economic" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>accused of obstructing international humanitarian efforts </a>by arresting more UN and deplomatic personnel.
-      To understand how more that 18 million Yemenis are in need of aid today, the purchase power of a unit of a basic food basket was tracked for the last decade. 
-        A household of 4 will need 10 baskets per month to satisfy minimum caloric intake. 
-        An average teacher was able to afford 10 baskets with one-third of their income in 2014 (estimated at 60,000 Riyals). 
-        Today, they can only afford one under IRG control and four under Houthi control, 
-        assuming that they received their wages regularly to start with.
+      In a country divided economically and politically, with a growing number of conflicts. 
+        Yemenis seem to be on a path of losing more and more of their livelihoods, drawn into more conflicts and far from finding an end to longstanding ones.
+        Purchasing power in the IRG areas is steadily declining, 
+        while the Houthis are <a href="https://www.crisisgroup.org/middle-east-north-africa/gulf-and-arabian-peninsula/yemen/brokering-ceasefire-yemens-economic" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>accused of obstructing international humanitarian efforts </a>
+        by arresting more UN and diplomatic staff. To understand how more than 18 million Yemenis are in need of humanitarian aid today, 
+        the purchasing power of one unit of a basic food basket has been tracked over the past decade.
+        A household of 4 needs 10 baskets per month to meet the minimum caloric intake. 
+        In 2014, an average family could afford 10 baskets with one third of their income (estimated at 60,000 riyals).
+        Today, they can afford only one under IRG control and four under Houthi control, 
+        assuming they received their salaries regularly in the first place.
       </p>
        <LineChart3 />
       <p>
