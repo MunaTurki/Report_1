@@ -16,11 +16,11 @@ const YemenisFaring = () => {
       className=" relative font-montserrat text-slate-gray leading-8 space-y-1">
     
       <p>
-      To track how the livelihood of Yemenis has changed through the last decade, 
-      we use a unit of a basic food basket. A household of 4 will need 10 baskets per month to satisfy minimum caloric intake.
-      An average teacher was able to afford 10 baskets with one-third of their income in 2014 (estimated at 60,000 Riyals). 
-      Today, they can only afford one under IRG control and four under Houthi control,
-      assuming that they received their wages regularly to start with.
+      In a country split economically and fragemented potically, with a growing number of conflicts. 
+      The yemenis seem to be on a track of losing more of their means to secure a livelihood, 
+        dragged into more conflicts and far from finding an end to long-pending ones.
+      The purchase power in the IRG territories is steadily falling, 
+      while the Houthis are hindering international humanitarian efforts by arresting more UN personelle.
       </p>
        <LineChart3 />
       <p>
