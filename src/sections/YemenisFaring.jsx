@@ -20,7 +20,12 @@ const YemenisFaring = () => {
       The yemenis seem to be on a track of losing more of their means to secure a livelihood, 
         dragged into more conflicts and far from finding an end to long-pending ones.
       The purchase power in the IRG territories is steadily falling, 
-      while the Houthis are hindering international humanitarian efforts by arresting more UN personelle.
+      while the Houthis obstruct international humanitarian efforts by arresting more UN personnel.
+      To track how the livelihood of Yemenis has changed through the last decade, 
+        we use a unit of a basic food basket. A household of 4 will need 10 baskets per month to satisfy minimum caloric intake. 
+        An average teacher was able to afford 10 baskets with one-third of their income in 2014 (estimated at 60,000 Riyals). 
+        Today, they can only afford one under IRG control and four under Houthi control, 
+        assuming that they received their wages regularly to start with.
       </p>
        <LineChart3 />
       <p>
