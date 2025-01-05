@@ -21,7 +21,7 @@ const YemenisFaring = () => {
         Purchasing power in the IRG areas is steadily declining, 
         while the Houthis are <a href="https://www.crisisgroup.org/middle-east-north-africa/gulf-and-arabian-peninsula/yemen/brokering-ceasefire-yemens-economic" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>accused of obstructing international humanitarian efforts </a>
         by arresting more UN and diplomatic staff. To understand how more than 18 million Yemenis are in need of humanitarian aid today, 
-        the purchasing power of one unit of a basic food basket has been tracked over the past decade.
+        the price of a basic food basket has been tracked over the past decade.
         A household of 4 needs 10 baskets per month to meet the minimum caloric intake. 
         In 2014, an average family could afford 10 baskets with one third of their income (estimated at 60,000 Riyals).
         Today, they can afford only one under IRG control and four under Houthi control, 
