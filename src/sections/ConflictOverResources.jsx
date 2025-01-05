@@ -9,7 +9,7 @@ const ConflictOverResources = () => {
     <div className="relative  flex  flex-col justify-center items-center w-full p-10" >
  
       <h1 className="text-xl font-palanquin font-bold">
-      <span id="text1" className=" text-lg xl:whitespace-nowrap relative">  2021 -2022 The Conflict over Resources  </span>
+      <span id="text1" className=" text-lg xl:whitespace-nowrap relative">  2021 -2022 The Conflict Over Resources  </span>
       </h1>
 
      <div className="relartive flex  w-full">
