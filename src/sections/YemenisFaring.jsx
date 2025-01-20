@@ -26,7 +26,7 @@ const YemenisFaring = () => {
         the price of a basic food basket has been tracked over the past decade.
         A household of 4 needs 10 baskets per month to meet the minimum caloric intake. 
         In 2014, a public school teacher could afford 10 baskets with one third of their income (estimated at 60,000 Riyals).
-        Today, they can afford only one under IRG control and less than four under Houthi control, 
+        Today, they can afford only one under IRG control and less than four under Houthi control for the same price, 
         assuming they received their salaries regularly in the first place.
       </p>
        <LineChart3 />
