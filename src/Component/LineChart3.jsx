@@ -58,7 +58,7 @@ const LineChart3 = () => {
     plugins: {
       title: {
         display: true,
-        text: 'Food Supplies for a budget of 20,000 YR',
+        text: 'Food Supplies for a Budget of 20,000 YR',
       },
       tooltip: {
         mode: 'index',
