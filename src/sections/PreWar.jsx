@@ -38,7 +38,7 @@ const PreWar = () => {
       <p>
       In 2011, Saleh was forced to step down as a result of the Arab Spring protests.
       The political transition process was later interrupted by the Houthis, who entered Sana'a in 2014 in alliance with forces loyal to Saleh. 
-      Yemen's economy, already consumed by political instability and years of poor governance, was heading toward full-scale conflict, with   <a href="https://documents1.worldbank.org/curated/en/376891524812213584/pdf/125815-WP-PUBLIC-YemenReportFinalAprilcompressed.pdf" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>a third</a> of the population risking food insecurity.
+      Yemen's economy, already consumed by political instability and years of poor governance, was heading toward full-scale conflict with   <a href="https://documents1.worldbank.org/curated/en/376891524812213584/pdf/125815-WP-PUBLIC-YemenReportFinalAprilcompressed.pdf" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>a third</a> of the population at risk of food insecurity.
       </p>
       </article>
      </div>
