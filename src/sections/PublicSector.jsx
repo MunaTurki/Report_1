@@ -32,9 +32,9 @@ const PublicSector = () => {
       <article id="text2" 
       className=" relative font-montserrat text-slate-gray leading-8 space-y-1">
       <p>
-      Teachers have traditionally been used as a proxy for the middle class in the context of the Yemeni economy,
-      largely due to the availability and simplicity of data. In 2014, teachers will already be struggling to meet their family's minimum food needs. 
-      Here is how the life of a middle class Yemeni will change drastically.
+      Public school teachers have traditionally been used as a proxy for the middle class in the context of the Yemeni economy,
+      largely due to the availability and simplicity of data. In 2014, meeting basic food needs was already challenging for teachers. 
+      Here is how the life of a middle-class Yemeni will deteriorate further.
       </p>
       </article>
      </div>
