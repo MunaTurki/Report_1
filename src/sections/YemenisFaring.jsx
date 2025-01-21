@@ -21,7 +21,8 @@ const YemenisFaring = () => {
         Purchasing power in the IRG areas is steadily declining, 
         while the Houthis are <a href="https://www.crisisgroup.org/middle-east-north-africa/gulf-and-arabian-peninsula/yemen/brokering-ceasefire-yemens-economic" target="_blank" rel="noopener noreferrer" className='text-gray-800 underline'>accused of obstructing international humanitarian efforts </a>
         by arresting more UN and diplomatic staff. 
-        
+      </p>
+        <p>
         To understand how more than 18 million Yemenis are in need of humanitarian aid today, 
         the price of a basic food basket has been tracked over the past decade.
         A household of 4 needs 10 baskets per month to meet the minimum caloric intake. 
