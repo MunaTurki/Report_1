@@ -1,0 +1,24 @@
+Calorie Calculation
+	1.	White Beans (1 kg) = 3,400 calories
+	2.	Flour (2 kg) = 7,280 calories
+	3.	Eggs (10 eggs) = 700 calories
+	4.	Rice (1 kg) = 3,650 calories
+	5.	Onion (1 kg) = 400 calories
+	6.	Tomatoes (1 kg) = 180 calories
+	7.	Potatoes (1 kg) = 770 calories
+	8.	Lentils (1 kg) = 3,530 calories
+	9.	Oil (250 ml) = 2,210 calories
+
+Total Calories: 22,120 calories
+
+
+
+ 
+
+How Long Does the Basket Last Now?
+
+Using the same daily calorie needs for 2 adults and 2 children (7,000 calories/day):3.16 days
+
+Approximately 3 days. 
+
+Sources: USDA FoodData Center and WHO guidlines.
