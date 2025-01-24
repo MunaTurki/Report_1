@@ -1,8 +1,11 @@
-# React + Vite
+I have written a sample report powered by data in the context of this application here: https://report-1-mauve.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Little notes about this report:
 
-Currently, two official plugins are available:
+The source files generating the website, the plots and some sources referenced by the hyperlinks can be found on the following GitHub repository: https://github.com/MunaTurki/Report_1
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The file (Data_Analysis_files) contain the data files and the code with which the raw plots were generated. The code is written on a Notebook which generate the full report in an interactive HTML file. (Tried to upload it to the job portal but failed)
+
+The file (Report Material) contains some of the referenced pdfs. When relevant the cited information is highlighted for quick access.
+
+ Happy reading! :)
